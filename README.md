@@ -20,7 +20,7 @@ Preview paths with Quick Look.
 Usage: ql <path...>
 
 Options:
--h, --help   Show this help.
+  -h, --help   Show this help.
 ```
 
 ## License
